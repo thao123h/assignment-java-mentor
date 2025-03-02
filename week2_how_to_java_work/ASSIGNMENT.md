@@ -78,7 +78,7 @@
     Answer:
     Heap :
 
-    - store objects created using new, instance variable(fields of objects) and String literals (String PoolPool)
+    - store objects created using new, instance variable(fields of objects in constructor) and String literals (String PoolPool)
     - Larger and slower that stack but allows dynamic memmory allocation
     - Object exists until GC removes them
       Stack:
