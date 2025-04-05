@@ -1,6 +1,6 @@
 ## Bài tập thực tế: Hệ thống xử lý dữ liệu log phân tán
 
-Xây dựng một hệ thống xử lý các file chứa log header HTTP lấy từ https://hackertarget.com/500k-http-headers/headers/. Mỗi file có thể chứa hàng ngàn response headers.
+Xây dựng một hệ thống xử lý các file chứa log header HTTP lấy từ https://hackertarget.com/500k-http-headers/. Mỗi file có thể chứa hàng ngàn response headers.
 
 Hãy download file header về và để trong thư mục dự án
 
